@@ -1,8 +1,10 @@
 {
     "settings": {
-        "announcement_channel": 0,
-        "status": false,
-        "bot_token": "",
-        "countdown_time": 60
+        "announcement_channel": [1, 2, 3],
+        "message_sent_status": false,
+        "bot_token": "TOKEN",
+        "countdown_time": 300,
+        "exit_after_announcement": false,
+        "sent_on": ""
     }
 }
